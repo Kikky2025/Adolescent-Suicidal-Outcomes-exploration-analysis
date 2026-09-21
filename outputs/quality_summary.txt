@@ -1,0 +1,9 @@
+Source records: 20103
+Excluded for missing/nonpositive weight or missing design variable: 0
+Complete responses on all three outcomes: 17603
+Weight range: 0.002 to 22.540; median 0.410; sum 20012.8
+Strata: 16; distinct stratum/PSU pairs: 89; design degrees of freedom: 73
+Raw and derived data matched by unique record ID; QN27, QN28, QN29 each have zero discrepancies from raw recodes.
+Missing outcome responses are excluded separately for each prevalence estimate.
+Q27=1: Seriously considered; Q28=1: Make a plan; Q29=2:5: Attempted.
+Race codes 6 and 7 combined as Hispanic/Latino; school support and family support categories are collapsed as specified in README.

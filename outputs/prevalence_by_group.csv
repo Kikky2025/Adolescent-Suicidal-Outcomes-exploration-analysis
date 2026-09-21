@@ -1,0 +1,127 @@
+"group","category","outcome","n","percent","lower","upper"
+"Overall","All","Seriously considered",19667,20.4245022612893,18.6283574428429,22.2206470797357
+"Sex","Female","Seriously considered",9662,27.0804979297063,24.6367828038376,29.524213055575
+"Sex","Male","Seriously considered",9869,14.0635832424486,12.2813091129786,15.8458573719186
+"Grade","9th grade","Seriously considered",5540,21.3460762075922,18.5416054248121,24.1505469903723
+"Grade","10th grade","Seriously considered",5317,19.6947155171666,17.8369234765146,21.5525075578187
+"Grade","11th grade","Seriously considered",4752,20.2452965255296,17.1293480207261,23.3612450303331
+"Grade","12th grade","Seriously considered",3866,19.5034603060964,16.8377940454342,22.1691265667585
+"Race/ethnicity","AI/AN, non-Hispanic","Seriously considered",1309,24.3728920086124,11.4576250320331,37.2881589851918
+"Race/ethnicity","Asian, non-Hispanic","Seriously considered",976,14.3580219940281,11.5832207858498,17.1328232022064
+"Race/ethnicity","Black, non-Hispanic","Seriously considered",1753,19.6325149512118,16.7110125406342,22.5540173617894
+"Race/ethnicity","NH/PI, non-Hispanic","Seriously considered",104,16.1325814881034,0,35.8348854703739
+"Race/ethnicity","White, non-Hispanic","Seriously considered",9547,22.0663125512048,19.6720083741205,24.4606167282891
+"Race/ethnicity","Hispanic/Latino, any race","Seriously considered",3927,18.185130780355,16.1420826157924,20.2281789449177
+"Race/ethnicity","Multiracial, non-Hispanic","Seriously considered",1775,21.5709593066501,16.8559264337782,26.2859921795221
+"School bullying","Yes","Seriously considered",3977,41.9339499544795,38.3583695940787,45.5095303148802
+"School bullying","No","Seriously considered",15572,14.958168993536,13.6032727168225,16.3130652702494
+"Electronic bullying","Yes","Seriously considered",3365,46.3027253848158,41.5130235948582,51.0924271747734
+"Electronic bullying","No","Seriously considered",16162,15.2000097956887,13.9490301115995,16.4509894797779
+"Sexual violence, past year","One or more times","Seriously considered",1812,48.6301471582608,44.8530179724438,52.4072763440778
+"Sexual violence, past year","Zero times","Seriously considered",13773,15.4552214085417,14.236994108278,16.6734487088054
+"Sad or hopeless","Yes","Seriously considered",7943,44.6653592771446,41.9619923928494,47.3687261614398
+"Sad or hopeless","No","Seriously considered",11574,4.54366896595432,3.85856406762773,5.2287738642809
+"Poor mental health, past 30 days","Most/always","Seriously considered",4725,45.0073174917154,42.0555230132966,47.9591119701342
+"Poor mental health, past 30 days","Never/rarely/sometimes","Seriously considered",10705,10.5339525417365,8.21579186927545,12.8521132141975
+"Binge drinking, past 30 days","One or more days","Seriously considered",1409,35.9237340077618,30.9500616146304,40.8974064008933
+"Binge drinking, past 30 days","Zero days","Seriously considered",13713,18.2539772028995,16.4442123298273,20.0637420759717
+"Ever used marijuana","Yes","Seriously considered",5123,33.6178727909688,31.2231340678082,36.0126115141293
+"Ever used marijuana","No","Seriously considered",11133,14.2752147819335,12.0247123719418,16.5257171919252
+"School-night sleep","Under 8 hours","Seriously considered",13228,23.097991705342,20.8779821235827,25.3180012871013
+"School-night sleep","8 or more hours","Seriously considered",3917,11.3138238123717,9.42583421181344,13.2018134129299
+"Unstable housing, past 30 days","Yes","Seriously considered",461,41.9404814388407,27.3448310512697,56.5361318264117
+"Unstable housing, past 30 days","No, including elsewhere","Seriously considered",13755,19.82037800634,18.1984743618999,21.44228165078
+"Household adult substance problem","Yes","Seriously considered",3771,37.9556553277305,34.8809635034333,41.0303471520276
+"Household adult substance problem","No","Seriously considered",9306,14.5245305724694,12.9827254917082,16.0663356532306
+"Household adult mental illness/suicidality","Yes","Seriously considered",4242,39.3030887950813,36.2309161992622,42.3752613909003
+"Household adult mental illness/suicidality","No","Seriously considered",8795,13.0267230135301,11.4400644393717,14.6133815876884
+"Adult met basic needs","Most/always","Seriously considered",13339,19.234084156837,17.6843295246345,20.7838387890395
+"Adult met basic needs","Never/rarely/sometimes","Seriously considered",2119,29.2826347385454,21.5951384144717,36.9701310626191
+"Feel close to school people","Agree/strongly agree","Seriously considered",5949,14.5830937551986,13.1998915719315,15.9662959384657
+"Feel close to school people","Unsure/disagree","Seriously considered",5066,26.6586085136717,23.8779055987101,29.4393114286333
+"Family knows whereabouts","Most/always","Seriously considered",8842,18.6124981167644,17.0695568528322,20.1554393806966
+"Family knows whereabouts","Never/rarely/sometimes","Seriously considered",1767,28.026287709285,24.4773572016266,31.5752182169434
+"Overall","All","Make a plan",18366,16.3884926971063,14.2519335531435,18.5250518410692
+"Sex","Female","Make a plan",9018,21.2036508339197,18.7158906803764,23.691410987463
+"Sex","Male","Make a plan",9231,11.8287392263351,9.76786575114697,13.8896127015233
+"Grade","9th grade","Make a plan",5216,16.8308580944547,14.0879063471247,19.5738098417847
+"Grade","10th grade","Make a plan",4964,16.6712211233572,14.6651915808643,18.6772506658502
+"Grade","11th grade","Make a plan",4427,17.1036916790342,13.9554178791304,20.251965478938
+"Grade","12th grade","Make a plan",3650,15.0863615634098,12.13376867698,18.0389544498396
+"Race/ethnicity","AI/AN, non-Hispanic","Make a plan",1299,25.6761386871802,14.63490976523,36.7173676091303
+"Race/ethnicity","Asian, non-Hispanic","Make a plan",928,12.6608608483178,10.0608680616014,15.2608536350342
+"Race/ethnicity","Black, non-Hispanic","Make a plan",1726,15.895579421584,12.9220043792757,18.8691544638923
+"Race/ethnicity","NH/PI, non-Hispanic","Make a plan",104,10.8818269363049,0,26.974371637928
+"Race/ethnicity","White, non-Hispanic","Make a plan",8469,17.0458421925746,14.0905599555492,20.0011244296
+"Race/ethnicity","Hispanic/Latino, any race","Make a plan",3832,15.5910116971065,13.4023576174388,17.7796657767742
+"Race/ethnicity","Multiracial, non-Hispanic","Make a plan",1706,19.830009846384,14.7846067416273,24.8754129511408
+"School bullying","Yes","Make a plan",3647,34.8556935674427,29.9706421016991,39.7407450331863
+"School bullying","No","Make a plan",14599,11.8804949461104,10.6145491152351,13.1464407769857
+"Electronic bullying","Yes","Make a plan",3096,38.6385175263355,31.869944115187,45.407090937484
+"Electronic bullying","No","Make a plan",15168,12.0966080946731,10.9419652278664,13.2512509614797
+"Sexual violence, past year","One or more times","Make a plan",1808,40.2847491621444,36.4580019413216,44.1114963829672
+"Sexual violence, past year","Zero times","Make a plan",13772,12.5180314536147,11.219479899389,13.8165830078405
+"Sad or hopeless","Yes","Make a plan",7463,35.7165646393646,32.471125099545,38.9620041791842
+"Sad or hopeless","No","Make a plan",10802,3.7437218925625,3.07876880309313,4.40867498203187
+"Poor mental health, past 30 days","Most/always","Make a plan",4267,35.9697711512998,33.5447598449421,38.3947824576575
+"Poor mental health, past 30 days","Never/rarely/sometimes","Make a plan",9886,8.89472667110461,5.99935402733086,11.7900993148784
+"Binge drinking, past 30 days","One or more days","Make a plan",1399,28.2028820685675,24.0993781452907,32.3063859918443
+"Binge drinking, past 30 days","Zero days","Make a plan",13720,14.394410402719,12.2932692933938,16.4955515120442
+"Ever used marijuana","Yes","Make a plan",4722,26.9811250225588,24.5092842460384,29.4529657990793
+"Ever used marijuana","No","Make a plan",10313,11.7994065600825,8.96522193383617,14.6335911863288
+"School-night sleep","Under 8 hours","Make a plan",12231,18.9872372518414,16.2120034630545,21.7624710406283
+"School-night sleep","8 or more hours","Make a plan",3649,9.19341863065811,7.61113485341157,10.7757024079046
+"Unstable housing, past 30 days","Yes","Make a plan",470,40.2026301899159,20.3189955998039,60.0862647800279
+"Unstable housing, past 30 days","No, including elsewhere","Make a plan",13746,15.5861070393778,13.8904075870965,17.2818064916591
+"Household adult substance problem","Yes","Make a plan",3750,30.868336082599,26.727989937253,35.008682227945
+"Household adult substance problem","No","Make a plan",9229,12.172450284788,10.5086578523966,13.8362427171794
+"Household adult mental illness/suicidality","Yes","Make a plan",4215,32.2503548335794,29.044703141862,35.4560065252967
+"Household adult mental illness/suicidality","No","Make a plan",8827,10.2076528094074,8.30632072560487,12.10898489321
+"Adult met basic needs","Most/always","Make a plan",13334,14.8044689768138,13.2539549968778,16.3549829567497
+"Adult met basic needs","Never/rarely/sometimes","Make a plan",2136,26.9626381316011,17.5243293192518,36.4009469439504
+"Feel close to school people","Agree/strongly agree","Make a plan",5889,12.0435939960782,10.4820449300351,13.6051430621213
+"Feel close to school people","Unsure/disagree","Make a plan",5034,22.5588330759938,19.4380979436796,25.679568208308
+"Family knows whereabouts","Most/always","Make a plan",8944,14.545544474454,12.8125875326915,16.2785014162165
+"Family knows whereabouts","Never/rarely/sometimes","Make a plan",1765,22.3937443769433,19.2945525393641,25.4929362145226
+"Overall","All","Attempted",19336,9.46049383010132,8.3304191326429,10.5905685275597
+"Sex","Female","Attempted",9552,12.6009828016388,11.101708737916,14.1002568653616
+"Sex","Male","Attempted",9639,6.36729301817793,5.24420859242556,7.4903774439303
+"Grade","9th grade","Attempted",5427,10.3641105928259,8.87913383135832,11.8490873542935
+"Grade","10th grade","Attempted",5234,9.71201538745536,8.11654227453196,11.3074885003788
+"Grade","11th grade","Attempted",4630,9.35866043748895,7.5444841251166,11.1728367498613
+"Grade","12th grade","Attempted",3849,8.03675375978116,6.08895689072006,9.98455062884226
+"Race/ethnicity","AI/AN, non-Hispanic","Attempted",1298,11.1992192855818,4.89951968476099,17.4989188864026
+"Race/ethnicity","Asian, non-Hispanic","Attempted",941,7.95131243660474,4.71441116919787,11.1882137040116
+"Race/ethnicity","Black, non-Hispanic","Attempted",1745,10.3371138052405,8.31035998956384,12.3638676209172
+"Race/ethnicity","NH/PI, non-Hispanic","Attempted",97,15.3846153846154,0,34.4998811737241
+"Race/ethnicity","White, non-Hispanic","Attempted",9400,8.31733180913579,6.85714929400197,9.7775143242696
+"Race/ethnicity","Hispanic/Latino, any race","Attempted",3768,10.7562880933986,9.00567811487654,12.5068980719206
+"Race/ethnicity","Multiracial, non-Hispanic","Attempted",1752,11.4320335864714,7.8823598017693,14.9817073711734
+"School bullying","Yes","Attempted",3841,21.8186164296692,18.9512865009391,24.6859463583992
+"School bullying","No","Attempted",15340,6.4159872201014,5.57481534926652,7.25715909093628
+"Electronic bullying","Yes","Attempted",3240,25.9147083575369,22.0842263739316,29.7451903411422
+"Electronic bullying","No","Attempted",15950,6.16412387780816,5.40750861418231,6.92073914143401
+"Sexual violence, past year","One or more times","Attempted",1784,29.4803248901856,26.0194772196068,32.9411725607644
+"Sexual violence, past year","Zero times","Attempted",13450,6.17540030633117,5.26769251790567,7.08310809475667
+"Sad or hopeless","Yes","Attempted",7803,20.9962025285855,19.0737641284475,22.9186409287235
+"Sad or hopeless","No","Attempted",11379,1.92773704286735,1.32868458558861,2.5267895001461
+"Poor mental health, past 30 days","Most/always","Attempted",4700,20.0129187229447,18.0381736579633,21.9876637879261
+"Poor mental health, past 30 days","Never/rarely/sometimes","Attempted",10630,5.15096638279041,4.00155325658001,6.30037950900081
+"Binge drinking, past 30 days","One or more days","Attempted",1406,23.0810826688244,19.2420191813841,26.9201461562648
+"Binge drinking, past 30 days","Zero days","Attempted",13739,7.56495877842328,6.52113495452679,8.60878260231978
+"Ever used marijuana","Yes","Attempted",5065,18.6129761378481,16.6950416394054,20.5309106362909
+"Ever used marijuana","No","Attempted",10952,5.17084992144166,3.91722307998564,6.42447676289769
+"School-night sleep","Under 8 hours","Attempted",12950,10.794332197789,9.32787648784291,12.260787907735
+"School-night sleep","8 or more hours","Attempted",3892,5.25017651812006,4.02072717250477,6.47962586373534
+"Unstable housing, past 30 days","Yes","Attempted",428,35.0002569965343,26.3578344577671,43.6426795353014
+"Unstable housing, past 30 days","No, including elsewhere","Attempted",13794,8.62939747774766,7.61608107001423,9.64271388548109
+"Household adult substance problem","Yes","Attempted",3733,19.8924154900873,17.314134234424,22.4706967457507
+"Household adult substance problem","No","Attempted",9288,6.00332268189325,4.94775963166139,7.0588857321251
+"Household adult mental illness/suicidality","Yes","Attempted",4211,18.7255793293542,16.1793108157827,21.2718478429256
+"Household adult mental illness/suicidality","No","Attempted",8890,5.5636000426606,4.546906100398,6.58029398492321
+"Adult met basic needs","Most/always","Attempted",13259,7.73468845381437,6.7268192411427,8.74255766648605
+"Adult met basic needs","Never/rarely/sometimes","Attempted",1992,19.0683724832823,14.5950887584786,23.5416562080861
+"Feel close to school people","Agree/strongly agree","Attempted",5923,7.11266814062456,6.0036801494879,8.22165613176122
+"Feel close to school people","Unsure/disagree","Attempted",5072,12.642109373681,10.5950525986798,14.6891661486822
+"Family knows whereabouts","Most/always","Attempted",8966,7.6674331203365,6.45560914738312,8.87925709328987
+"Family knows whereabouts","Never/rarely/sometimes","Attempted",1766,15.8818193879551,13.0190846192982,18.744554156612
